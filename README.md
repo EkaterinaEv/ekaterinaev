@@ -25,9 +25,6 @@
 
 
 ## Моя статистика GitHub 
-
-![EkaterinaEv's Stats](https://github-readme-stats.vercel.app/api?username=EkaterinaEv&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![EkaterinaEv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EkaterinaEv&theme=vue-dark&hide_border=true)
-
-![EkaterinaEv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaterinaEv&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EkaterinaEv&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EkaterinaEv&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EkaterinaEv&theme=blueberry)
