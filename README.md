@@ -1,7 +1,11 @@
 <h2 align="center">Всем привет, меня зовут Екатерина Евтюхова.</h2>
 
-Я выпускница и аспирант образовательной платформы  `Нетология` (направление `«Программирование»`, курс `«Тестировщик ПО»`)
+Я выпускница и аспирант образовательной платформы  **Нетология** (направление **«Программирование»**, курс **«Тестировщик ПО»**)
 
+`Инструменты и языки программирования`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30"/> <img src="https://img.icons8.com/color/1x/intellij-idea.png" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="35"/>
+            
 
 # Портфолио
 
