@@ -19,6 +19,8 @@
 - [x] [Дипломный проект по профессии "Тестировщик"](https://github.com/EkaterinaEv/Diploma)
 - [x] [Командный проект по курсу "Java для тестировщиков"](https://github.com/EkaterinaEv/javaqa-team-diplom-2)
 - [x] [Курсовой проект по курсу "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1wxcDs2qlx5Ra90wdYQxxqZaLkVJLskpf0izMnpaqTnc/edit#gid=0)
+- [x] [Конкурсная работа для тестировщиков от компании Fun&Sun](https://docs.google.com/spreadsheets/d/1LOa1wSaRIubT40c6jqNZ6xJ1nlVduM3ieBcpo1siulY/edit#gid=1291746601)
+
 
 
 ## Сертификаты
